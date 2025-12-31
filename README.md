@@ -80,4 +80,3 @@ if __name__ == "__main__":
 
 
 
-https://github.com/gayaz-begum/Password-generator/issues/2#issue-3772625234
