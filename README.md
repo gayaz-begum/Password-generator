@@ -1,7 +1,18 @@
 #PASSWORD GENERATOR
+
+
+
+
+
 A **Smart Password Generator** is a utility tool designed to enhance digital security by creating complex, unpredictable strings of characters that are resistant to "brute-force" attacks. By leveraging Python's `random` and `string` modules, the program assembles passwords using a custom blend of uppercase letters, lowercase letters, numbers, and symbols based on specific user requirements. Beyond simple generation, this tool incorporates a **Strength Evaluator** that utilizes regular expressions to analyze entropy and complexity, providing real-time feedback on the password's security level to ensure it meets modern safety standards.
 
+
+
 #CODE
+
+
+
+
 import string
 import random
 import re
@@ -64,3 +75,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+https://github.com/gayaz-begum/Password-generator/issues/2#issue-3772625234
